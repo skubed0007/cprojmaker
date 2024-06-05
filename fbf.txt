@@ -1,0 +1,2 @@
+g++ -std=c++17 -o cpm main.cpp\nx86_64-w64-mingw32-g++ -std=c++17 -o cpm.exe main.cpp
+
